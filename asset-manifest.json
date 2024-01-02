@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/css/main.ce03822f.css",
+    "main.css": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/css/main.7d6e64cf.css",
     "main.js": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/js/main.533f1cd8.js",
     "static/js/787.1eab38b2.chunk.js": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/js/787.1eab38b2.chunk.js",
     "static/media/profile_pic_smiley.jpg": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/media/profile_pic_smiley.38afe764c4ec47ac5312.jpg",
@@ -31,12 +31,12 @@
     "static/media/nextjs-original.svg": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/media/nextjs-original.17fe1720dcc66b60fc1a.svg",
     "static/media/fr.svg": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/media/fr.2b73cc5a99eb2870654b.svg",
     "static/media/de.svg": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/media/de.ed5be69598a5a9c32bc8.svg",
-    "main.ce03822f.css.map": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/css/main.ce03822f.css.map",
+    "main.7d6e64cf.css.map": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/css/main.7d6e64cf.css.map",
     "main.533f1cd8.js.map": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/js/main.533f1cd8.js.map",
     "787.1eab38b2.chunk.js.map": "/FiestaTheNewbieDev/fiestathenewbiedev.github.io/static/js/787.1eab38b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce03822f.css",
+    "static/css/main.7d6e64cf.css",
     "static/js/main.533f1cd8.js"
   ]
 }
