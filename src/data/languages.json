@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Français",
+    "svg": "fr.svg",
+    "mastery": 5
+  },
+  {
+    "name": "English",
+    "svg": "gb.svg",
+    "mastery": 3
+  },
+  {
+    "name": "Deutsch",
+    "svg": "de.svg",
+    "mastery": 1
+  }
+]

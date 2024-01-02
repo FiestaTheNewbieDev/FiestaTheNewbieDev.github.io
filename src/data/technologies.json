@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Java",
+    "svg": "java-original-wordmark.svg",
+    "mastery": 4
+  },
+  {
+    "name": "HTML5",
+    "svg": "html5-original-wordmark.svg",
+    "mastery": 4
+  },
+  {
+    "name": "CSS3",
+    "svg": "css3-original-wordmark.svg",
+    "mastery": 4
+  },
+  {
+    "name": "JavaScript",
+    "svg": "javascript-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "Bootstrap",
+    "svg": "bootstrap-original.svg",
+    "mastery": 4
+  },
+  {
+    "name": "Tailwind CSS",
+    "svg": "tailwindcss-plain.svg",
+    "mastery": 3
+  },
+  {
+    "name": "Laravel",
+    "svg": "laravel-plain-wordmark.svg",
+    "mastery": 3
+  },
+  {
+    "name": "TypeScript",
+    "svg": "typescript-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "React",
+    "svg": "react-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "Next.js",
+    "svg": "nextjs-original.svg",
+    "mastery": 2
+  },
+  {
+    "name": "PHP",
+    "svg": "php-original.svg",
+    "mastery": 2
+  },
+  {
+    "name": "MySQL",
+    "svg": "mysql-original-wordmark.svg",
+    "mastery": 3
+  },
+  {
+    "name": "MariaDB",
+    "svg": "mariadb.svg",
+    "mastery": 3
+  },
+  {
+    "name": "Python",
+    "svg": "python-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "C",
+    "svg": "c-original.svg",
+    "mastery": 1
+  },
+  {
+    "name": "C#",
+    "svg": "csharp-original.svg",
+    "mastery": 1
+  },
+  {
+    "name": "Git",
+    "svg": "git-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "GitHub",
+    "svg": "github-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "Docker",
+    "svg": "docker-plain.svg",
+    "mastery": 2
+  },
+  {
+    "name": "Unity",
+    "svg": "unity-original.svg",
+    "mastery": 1
+  },
+  {
+    "name": "Node.js",
+    "svg": "nodejs-original.svg",
+    "mastery": 3
+  },
+  {
+    "name": "discord.js",
+    "svg": "discordjs-original.svg",
+    "mastery": 3
+  }
+]

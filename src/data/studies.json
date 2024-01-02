@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Année Préparatoire accélérée - Chargé de projets informatiques",
+    "desc": "",
+    "localisation": "École des Technologies Numériques Avancées (ETNA), 94200 Ivry-sur-Seine, France",
+    "localisationLink": "https://maps.app.goo.gl/74UqtokgauZwt4eQ6",
+    "endYear": 2025,
+    "startYear": 2023
+  },
+  {
+    "title": "Licence informatique",
+    "desc": "Première année validée ✔\nArrêt en cours de seconde année ❌",
+    "localisation": "Université Paris-Est Créteil, 94000 Créteil",
+    "localisationLink": "https://goo.gl/maps/YoGGC4r7bgeyrgv69",
+    "endYear": 2023,
+    "startYear": 2021
+  },
+  {
+    "title": "Baccalauréat général",
+    "desc": "Enseignements de spécialité : Informatique, Mathématiques, Cinéma\nOptions : Cinéma\nMention assez bien",
+    "localisation": "Lycée Rosa Parks, 91230 Montgeron",
+    "localisationLink": "https://goo.gl/maps/q4QyWRFqiXUzXbT37",
+    "endYear": 2021,
+    "startYear": 2018
+  }
+]
